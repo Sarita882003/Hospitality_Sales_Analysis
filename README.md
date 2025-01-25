@@ -26,8 +26,7 @@ This project showcases a **Hotel Sales Analysis Dashboard** built using Power BI
 - **README.md**: This documentation file.
 
 ## Preview
-![Dashboard Preview]("C:\Users\pc\Pictures\Screenshots\Screenshot (94).png")  
-*Example of the dashboard visuals.*
+![Preview](C:/Users/pc/Pictures/Screenshots/Screenshot%20(94).png)
 
 ## Prerequisites
 - Power BI Desktop (latest version).
